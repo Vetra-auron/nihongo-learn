@@ -1,0 +1,272 @@
+[
+    {
+        "pattern": "〜です",
+        "meaning": "~입니다 (정중체)",
+        "explanation": "명사나 な형용사 뒤에 붙여 정중하게 문장을 끝맺는 표현입니다.",
+        "level": "N5",
+        "connection_rule": "명사 + です / な형용사 + です",
+        "example_sentence": "私は学生です。",
+        "example_korean": "저는 학생입니다."
+    },
+    {
+        "pattern": "〜ます",
+        "meaning": "~합니다 (정중체)",
+        "explanation": "동사의 정중한 표현입니다. 동사 어간에 붙습니다.",
+        "level": "N5",
+        "connection_rule": "동사 어간 + ます",
+        "example_sentence": "毎日、勉強します。",
+        "example_korean": "매일 공부합니다."
+    },
+    {
+        "pattern": "〜ません",
+        "meaning": "~하지 않습니다 (정중 부정)",
+        "explanation": "동사의 정중한 부정 표현입니다.",
+        "level": "N5",
+        "connection_rule": "동사 어간 + ません",
+        "example_sentence": "肉を食べません。",
+        "example_korean": "고기를 먹지 않습니다."
+    },
+    {
+        "pattern": "〜ました",
+        "meaning": "~했습니다 (정중 과거)",
+        "explanation": "동사의 정중한 과거 표현입니다.",
+        "level": "N5",
+        "connection_rule": "동사 어간 + ました",
+        "example_sentence": "昨日、映画を見ました。",
+        "example_korean": "어제 영화를 봤습니다."
+    },
+    {
+        "pattern": "〜ませんでした",
+        "meaning": "~하지 않았습니다 (정중 과거 부정)",
+        "explanation": "동사의 정중한 과거 부정 표현입니다.",
+        "level": "N5",
+        "connection_rule": "동사 어간 + ませんでした",
+        "example_sentence": "昨日は勉強しませんでした。",
+        "example_korean": "어제는 공부하지 않았습니다."
+    },
+    {
+        "pattern": "〜は〜です",
+        "meaning": "~은/는 ~입니다",
+        "explanation": "주제를 나타내는 가장 기본적인 문형입니다. は는 '와'로 발음합니다.",
+        "level": "N5",
+        "connection_rule": "명사 + は + 명사/형용사 + です",
+        "example_sentence": "これは本です。",
+        "example_korean": "이것은 책입니다."
+    },
+    {
+        "pattern": "〜が〜です",
+        "meaning": "~이/가 ~입니다",
+        "explanation": "주어를 나타내는 조사입니다. 새로운 정보를 강조할 때 사용합니다.",
+        "level": "N5",
+        "connection_rule": "명사 + が + 형용사/동사",
+        "example_sentence": "猫が好きです。",
+        "example_korean": "고양이가 좋습니다."
+    },
+    {
+        "pattern": "〜を〜",
+        "meaning": "~을/를",
+        "explanation": "목적어를 나타내는 조사입니다.",
+        "level": "N5",
+        "connection_rule": "명사 + を + 타동사",
+        "example_sentence": "本を読みます。",
+        "example_korean": "책을 읽습니다."
+    },
+    {
+        "pattern": "〜に行きます",
+        "meaning": "~에 갑니다",
+        "explanation": "목적지를 나타내는 조사 に와 이동동사의 조합입니다.",
+        "level": "N5",
+        "connection_rule": "장소 + に + 이동동사",
+        "example_sentence": "学校に行きます。",
+        "example_korean": "학교에 갑니다."
+    },
+    {
+        "pattern": "〜で〜",
+        "meaning": "~에서 / ~으로",
+        "explanation": "장소에서의 동작, 또는 수단/방법을 나타냅니다.",
+        "level": "N5",
+        "connection_rule": "장소/수단 + で + 동사",
+        "example_sentence": "図書館で勉強します。",
+        "example_korean": "도서관에서 공부합니다."
+    },
+    {
+        "pattern": "〜と〜",
+        "meaning": "~와/과",
+        "explanation": "함께하는 대상을 나타내는 조사입니다.",
+        "level": "N5",
+        "connection_rule": "명사 + と + 명사/동사",
+        "example_sentence": "友達と映画を見ます。",
+        "example_korean": "친구와 영화를 봅니다."
+    },
+    {
+        "pattern": "〜から〜まで",
+        "meaning": "~부터 ~까지",
+        "explanation": "시작점과 끝점을 나타내는 표현입니다.",
+        "level": "N5",
+        "connection_rule": "시간/장소 + から + 시간/장소 + まで",
+        "example_sentence": "9時から5時まで働きます。",
+        "example_korean": "9시부터 5시까지 일합니다."
+    },
+    {
+        "pattern": "〜も",
+        "meaning": "~도",
+        "explanation": "동일함이나 추가를 나타내는 조사입니다.",
+        "level": "N5",
+        "connection_rule": "명사 + も",
+        "example_sentence": "私も学生です。",
+        "example_korean": "저도 학생입니다."
+    },
+    {
+        "pattern": "〜ね",
+        "meaning": "~네요, ~죠",
+        "explanation": "동의를 구하거나 확인하는 종조사입니다.",
+        "level": "N5",
+        "connection_rule": "문장 끝 + ね",
+        "example_sentence": "今日は暑いですね。",
+        "example_korean": "오늘은 덥네요."
+    },
+    {
+        "pattern": "〜よ",
+        "meaning": "~요 (강조)",
+        "explanation": "새로운 정보를 알려주거나 강조하는 종조사입니다.",
+        "level": "N5",
+        "connection_rule": "문장 끝 + よ",
+        "example_sentence": "この映画は面白いですよ。",
+        "example_korean": "이 영화는 재미있어요."
+    },
+    {
+        "pattern": "〜か",
+        "meaning": "~입니까? (의문)",
+        "explanation": "의문문을 만드는 종조사입니다.",
+        "level": "N5",
+        "connection_rule": "문장 끝 + か",
+        "example_sentence": "これは何ですか。",
+        "example_korean": "이것은 무엇입니까?"
+    },
+    {
+        "pattern": "〜たい",
+        "meaning": "~하고 싶다",
+        "explanation": "희망을 나타내는 표현입니다. 1인칭에만 사용합니다.",
+        "level": "N5",
+        "connection_rule": "동사 어간 + たい",
+        "example_sentence": "日本に行きたいです。",
+        "example_korean": "일본에 가고 싶습니다."
+    },
+    {
+        "pattern": "〜ましょう",
+        "meaning": "~합시다",
+        "explanation": "권유를 나타내는 표현입니다.",
+        "level": "N5",
+        "connection_rule": "동사 어간 + ましょう",
+        "example_sentence": "一緒に食べましょう。",
+        "example_korean": "함께 먹읍시다."
+    },
+    {
+        "pattern": "〜てください",
+        "meaning": "~해 주세요",
+        "explanation": "부탁이나 요청을 나타내는 표현입니다.",
+        "level": "N5",
+        "connection_rule": "동사 て형 + ください",
+        "example_sentence": "ここに名前を書いてください。",
+        "example_korean": "여기에 이름을 써 주세요."
+    },
+    {
+        "pattern": "〜ないでください",
+        "meaning": "~하지 말아 주세요",
+        "explanation": "금지를 정중하게 요청하는 표현입니다.",
+        "level": "N5",
+        "connection_rule": "동사 ない형 + でください",
+        "example_sentence": "写真を撮らないでください。",
+        "example_korean": "사진을 찍지 말아 주세요."
+    },
+    {
+        "pattern": "〜ている",
+        "meaning": "~하고 있다 (진행/상태)",
+        "explanation": "동작의 진행이나 상태의 지속을 나타냅니다.",
+        "level": "N5",
+        "connection_rule": "동사 て형 + いる",
+        "example_sentence": "本を読んでいます。",
+        "example_korean": "책을 읽고 있습니다."
+    },
+    {
+        "pattern": "〜てもいいです",
+        "meaning": "~해도 됩니다",
+        "explanation": "허가를 나타내는 표현입니다.",
+        "level": "N5",
+        "connection_rule": "동사 て형 + もいいです",
+        "example_sentence": "ここで写真を撮ってもいいですか。",
+        "example_korean": "여기서 사진을 찍어도 됩니까?"
+    },
+    {
+        "pattern": "〜てはいけません",
+        "meaning": "~해서는 안 됩니다",
+        "explanation": "금지를 나타내는 표현입니다.",
+        "level": "N5",
+        "connection_rule": "동사 て형 + はいけません",
+        "example_sentence": "ここでタバコを吸ってはいけません。",
+        "example_korean": "여기서 담배를 피워서는 안 됩니다."
+    },
+    {
+        "pattern": "〜ことができます",
+        "meaning": "~할 수 있습니다",
+        "explanation": "능력이나 가능성을 나타내는 표현입니다.",
+        "level": "N5",
+        "connection_rule": "동사 사전형 + ことができます",
+        "example_sentence": "日本語を話すことができます。",
+        "example_korean": "일본어를 말할 수 있습니다."
+    },
+    {
+        "pattern": "〜前に",
+        "meaning": "~하기 전에",
+        "explanation": "동작의 선후 관계를 나타냅니다.",
+        "level": "N5",
+        "connection_rule": "동사 사전형/명사 + の + 前に",
+        "example_sentence": "寝る前に歯を磨きます。",
+        "example_korean": "자기 전에 이를 닦습니다."
+    },
+    {
+        "pattern": "〜た後で",
+        "meaning": "~한 후에",
+        "explanation": "동작이 완료된 후를 나타냅니다.",
+        "level": "N5",
+        "connection_rule": "동사 た형 + 後で",
+        "example_sentence": "ご飯を食べた後で、散歩します。",
+        "example_korean": "밥을 먹은 후에 산책합니다."
+    },
+    {
+        "pattern": "〜と思います",
+        "meaning": "~라고 생각합니다",
+        "explanation": "자신의 생각이나 의견을 나타냅니다.",
+        "level": "N5",
+        "connection_rule": "보통형 + と思います",
+        "example_sentence": "明日は晴れると思います。",
+        "example_korean": "내일은 맑을 거라고 생각합니다."
+    },
+    {
+        "pattern": "〜だろう/でしょう",
+        "meaning": "~일 것이다 (추측)",
+        "explanation": "추측을 나타내는 표현입니다.",
+        "level": "N5",
+        "connection_rule": "명사/형용사/동사 + でしょう",
+        "example_sentence": "明日は雨でしょう。",
+        "example_korean": "내일은 비가 오겠죠."
+    },
+    {
+        "pattern": "〜なければなりません",
+        "meaning": "~해야 합니다",
+        "explanation": "의무를 나타내는 표현입니다.",
+        "level": "N5",
+        "connection_rule": "동사 ない형(ない→なければ) + なりません",
+        "example_sentence": "宿題をしなければなりません。",
+        "example_korean": "숙제를 해야 합니다."
+    },
+    {
+        "pattern": "〜のが好きです",
+        "meaning": "~하는 것을 좋아합니다",
+        "explanation": "동작을 명사화하여 좋아한다고 표현합니다.",
+        "level": "N5",
+        "connection_rule": "동사 사전형 + のが好きです",
+        "example_sentence": "音楽を聞くのが好きです。",
+        "example_korean": "음악 듣는 것을 좋아합니다."
+    }
+]
